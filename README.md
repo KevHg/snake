@@ -10,12 +10,11 @@ Run main.py
 
 Developed with pygame
 
-Controls: Arrow keys
+**Controls:** Arrow keys, game exits automatically upon losing
 
 Red blocks - Snake
-Green block - Food
 
-Game exits automatically upon losing
+Green block - Food
 
 ## Issues
 
